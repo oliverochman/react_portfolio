@@ -6,6 +6,9 @@ const Hello = () => {
       <h1>
         Hello World
       </h1>
+      <p>
+        I am studying to become a fullstack junior web developer
+      </p>
     </div>
   )
 }
